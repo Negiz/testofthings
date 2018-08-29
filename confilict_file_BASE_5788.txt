@@ -1,10 +1,6 @@
 ﻿hello this is a line
 222322
-<<<<<<< HEAD
-3321333-kek
-=======
-3321333-lol
->>>>>>> hello
+3321333
 sss
 eieeeieieiieiiqqåopwer caasd
 asdter57twqq
