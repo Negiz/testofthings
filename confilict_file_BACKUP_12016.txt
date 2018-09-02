@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is now replaced!
-=======
-this file has been overwritten
->>>>>>> 89c48e7f5d2249d56a9857007543301c72e18adf
